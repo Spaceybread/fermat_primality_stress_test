@@ -1,4 +1,4 @@
-# fermat_primality_tstress
+# Fermat Primality Stress Test
 Puts a heavy load on the CPU by attempting to check if a number is prime or not; based on Fermat's Primality Test and inspired by GIMPS and Prime95
 
 Open stress.py using command prompt and choose the number of instances you want to run, do not open mprime.py directly  
