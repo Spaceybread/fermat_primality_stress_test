@@ -1,12 +1,11 @@
 import os
+import sys
+import subprocess
 
 i = 0
 
 print('Monitor CPU performance to avoid damage to your hardware')
 n = int(input('Instance count:  '))
-
-import sys
-import subprocess
 
 procs = []
 for i in range(n):
